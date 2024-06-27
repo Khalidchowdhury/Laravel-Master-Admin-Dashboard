@@ -1,0 +1,23 @@
+body {
+    background: #2b7bcc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.card {
+    border: none;
+    border-radius: 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.form-control {
+    border-radius: 0.5rem;
+}
+.btn-custom {
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 0.5rem;
+}
+.btn-custom:hover {
+    background-color: #0056b3;
+}
